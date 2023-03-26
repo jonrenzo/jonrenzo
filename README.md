@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  height="25"/>
   <img src="https://img.shields.io/badge/Figma-%2320232a?style=for-the-badge&logo=figma&logoColor=F24E1E" height="25"/>
   <img src="https://img.shields.io/badge/blender-%2320232a.svg?style=for-the-badge&logo=blender&logoColor=#EA7300" height="25"/>
-  <img src="https://img.shields.io/badge/c++
  </p>
 
 
