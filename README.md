@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2361DAFB" height="25"/>
   <img src="https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=#FFFF00" height="25"/>
+  <img src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=php&logoColor=#FFFF00" height="25"/>
   
   
  </p>
