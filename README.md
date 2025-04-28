@@ -14,6 +14,22 @@
 
 
 <div align=center>
-  <img width = "400" src = "https://github-readme-streak-stats.herokuapp.com/?user=jonrenzo&theme=merko&hide_border=true"><br>
-   <img width = "400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jonrenzo&theme=merko&show_icons=true&hide_border=true&layout=compact">
+<img src="https://streak-stats.demolab.com/?user=jonrenzo&theme=highcontrast&hide_border=true" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonrenzo&custom_title=Renzo's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonrenzo&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonrenzo&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonrenzo&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+  ![snake gif](https://github.com/jonrenzo/jonrenzo/blob/output/github-snake-dark.svg)
 </div>
+
